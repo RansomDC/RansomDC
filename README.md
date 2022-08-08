@@ -1,4 +1,4 @@
-Hello there! My name is Ransom Cadorette and I am a software developer looking to dive right into the industry and make big changes. Technologies I have experience in include: HTML, CSS, JavaScript, Python, Django, SQL, C#, and ASP.Net core.  
+Hello there! My name is Ransom David Cadorette and I am a software developer looking to dive right into the industry and make big changes. Technologies I have experience in include: HTML, CSS, JavaScript, Python, Django, SQL, C#, and ASP.Net core.  
 
 If you see anything interesting in my repositories feel free to send me a message asking about them, I would love to collaborate on projects and I'm always looking for new ways to expand skillset
 

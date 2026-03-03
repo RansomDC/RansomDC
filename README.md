@@ -3,7 +3,7 @@ Hello there! My name is Ransom David Cadorette and I am a software developer loo
 If you see anything interesting in my repositories feel free to send me a message asking about them, I would love to collaborate on projects and I'm always looking for new ways to expand skillset
 
 You can contact me at my website:
-www.ransomcadorette.com
+[www.ransomcadorette.com](http://ransomdc.github.io/Portfolio)
 
 Or at my LinkedIn:
 https://www.linkedin.com/in/ransom-cadorette/
